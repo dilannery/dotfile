@@ -1,2 +1,3 @@
 vimrc => VIM Configuration Dotfile
 speedwapper => Keyboard CapsLock to ESC change
+tmux.conf => Confiuration of TMUX
